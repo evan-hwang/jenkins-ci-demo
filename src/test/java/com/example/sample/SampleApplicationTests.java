@@ -1,6 +1,6 @@
 package com.example.sample;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 import org.junit.runner.RunWith;
@@ -16,8 +16,10 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @SpringBootTest
 @AutoConfigureMockMvc
 public class SampleApplicationTests {
+
 	@Autowired
 	private MockMvc mockMvc;
+
 	@Test
 	public void getsAllRides() throws Exception {
 		mockMvc.perform(MockMvcRequestBuilders.get("/ride")

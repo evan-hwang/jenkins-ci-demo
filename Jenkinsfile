@@ -35,19 +35,19 @@ pipeline {
 
         stage('Auth Server Build') {
           steps {
-            sh 'sample'
+            echo 'sample'
           }
         }
 
         stage('Resource Server Build') {
           steps {
-            sh 'sample'
+            echo 'sample'
           }
         }
 
         stage('Frontend Build') {
           steps {
-            sh 'sample'
+            echo 'sample'
           }
         }
 
@@ -62,7 +62,7 @@ pipeline {
 
     stage('Docker Tag & Push') {
       steps {
-        sh 'sample'
+        echo 'sample'
       }
     }
 
@@ -70,19 +70,19 @@ pipeline {
       parallel {
         stage('Deploy to DEV') {
           steps {
-            sh 'sample'
+            echo 'sample'
           }
         }
 
         stage('Deploy To Stage') {
           steps {
-            sh 'sample'
+            echo 'sample'
           }
         }
 
         stage('Deploy To Production') {
           steps {
-            sh 'sample'
+            echo 'sample'
           }
         }
 
