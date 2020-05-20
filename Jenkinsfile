@@ -7,11 +7,11 @@ pipeline {
       }
     }
 
-    stage('Checkout') {
-      steps {
-        git(url: 'https://github.com/evan-hwang/jenkins-ci-demo.git', branch: 'master')
-      }
-    }
+//     stage('Checkout') {
+//       steps {
+//         git(url: 'https://github.com/evan-hwang/jenkins-ci-demo.git', branch: 'master')
+//       }
+//     }
 
     stage('Unit Test') {
       steps {
