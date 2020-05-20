@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5794a392-269e-4368-a03d-a868cde580bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/sample/SampleApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/sample/ThemeParkRide.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/sample/ThemeParkRideController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/sample/ThemeParkRideRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/test/com/example/sample/SampleApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.example.sample.SampleApplicationTests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.example.sample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.example.sample.SampleApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1btCOgYhWee1P3zer43ZJTAlTtU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SampleApplication">
+    <configuration name="SampleApplicationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.sample.SampleApplicationTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sample.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sample.SampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SampleApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5794a392-269e-4368-a03d-a868cde580bc" name="Default Changelist" comment="" />
+      <created>1589441972067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589441972067</updated>
+      <workItem from="1589441976725" duration="1041000" />
+      <workItem from="1589444453063" duration="189000" />
+      <workItem from="1589444671404" duration="1137000" />
+      <workItem from="1589780675996" duration="3394000" />
+      <workItem from="1589864587202" duration="572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1379" y="-1136" key="#Plugins" timestamp="1589780405377">
+      <screen x="599" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="1379" y="-1136" key="#Plugins/599.-1440.2560.1440/0.0.1194.834/-1961.-1440.2560.1440@599.-1440.2560.1440" timestamp="1589780405377" />
+    <state x="3340" y="304" key="#Project_Structure" timestamp="1589444482597">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3340" y="304" key="#Project_Structure/0.0.2560.1440/2560.0.2560.1440@2560.0.2560.1440" timestamp="1589444482597" />
+    <state x="3304" y="377" width="1182" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589444615104">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3304" y="377" width="1182" height="755" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440/2560.0.2560.1440@2560.0.2560.1440" timestamp="1589444615104" />
+    <state x="3452" y="515" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589767566026">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3452" y="515" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440/2560.0.2560.1440@2560.0.2560.1440" timestamp="1589443726007" />
+    <state x="3452" y="515" key="#com.intellij.fileTypes.FileTypeChooser/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1589767566026" />
+    <state x="3570" y="471" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589444614292">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3570" y="471" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1440/2560.0.2560.1440@2560.0.2560.1440" timestamp="1589444614292" />
+    <state x="3653" y="611" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589444503153">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3653" y="611" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1440/2560.0.2560.1440@2560.0.2560.1440" timestamp="1589444503153" />
+    <state x="1554" y="-1022" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589780428266">
+      <screen x="599" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="1554" y="-1022" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/599.-1440.2560.1440/0.0.1194.834/-1961.-1440.2560.1440@599.-1440.2560.1440" timestamp="1589780428266" />
+    <state x="3282" y="258" key="CommitChangelistDialog2" timestamp="1589444805467">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3282" y="258" key="CommitChangelistDialog2/0.0.2560.1440/2560.0.2560.1440@2560.0.2560.1440" timestamp="1589444805467" />
+    <state width="2508" height="410" key="GridCell.Tab.0.bottom" timestamp="1589802199422">
+      <screen x="599" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2508" height="410" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.0.2560.1440@2560.0.2560.1440" timestamp="1589444780772" />
+    <state width="2508" height="410" key="GridCell.Tab.0.bottom/599.-1440.2560.1440/0.0.1194.834/-1961.-1440.2560.1440@599.-1440.2560.1440" timestamp="1589802199422" />
+    <state width="2508" height="410" key="GridCell.Tab.0.center" timestamp="1589802199421">
+      <screen x="599" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2508" height="410" key="GridCell.Tab.0.center/0.0.2560.1440/2560.0.2560.1440@2560.0.2560.1440" timestamp="1589444780770" />
+    <state width="2508" height="410" key="GridCell.Tab.0.center/599.-1440.2560.1440/0.0.1194.834/-1961.-1440.2560.1440@599.-1440.2560.1440" timestamp="1589802199421" />
+    <state width="2508" height="410" key="GridCell.Tab.0.left" timestamp="1589802199419">
+      <screen x="599" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2508" height="410" key="GridCell.Tab.0.left/0.0.2560.1440/2560.0.2560.1440@2560.0.2560.1440" timestamp="1589444780769" />
+    <state width="2508" height="410" key="GridCell.Tab.0.left/599.-1440.2560.1440/0.0.1194.834/-1961.-1440.2560.1440@599.-1440.2560.1440" timestamp="1589802199419" />
+    <state width="2508" height="410" key="GridCell.Tab.0.right" timestamp="1589802199422">
+      <screen x="599" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2508" height="410" key="GridCell.Tab.0.right/0.0.2560.1440/2560.0.2560.1440@2560.0.2560.1440" timestamp="1589444780771" />
+    <state width="2508" height="410" key="GridCell.Tab.0.right/599.-1440.2560.1440/0.0.1194.834/-1961.-1440.2560.1440@599.-1440.2560.1440" timestamp="1589802199422" />
+    <state width="2508" height="410" key="GridCell.Tab.1.bottom" timestamp="1589802199426">
+      <screen x="599" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2508" height="410" key="GridCell.Tab.1.bottom/599.-1440.2560.1440/0.0.1194.834/-1961.-1440.2560.1440@599.-1440.2560.1440" timestamp="1589802199426" />
+    <state width="2508" height="410" key="GridCell.Tab.1.center" timestamp="1589802199424">
+      <screen x="599" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2508" height="410" key="GridCell.Tab.1.center/599.-1440.2560.1440/0.0.1194.834/-1961.-1440.2560.1440@599.-1440.2560.1440" timestamp="1589802199424" />
+    <state width="2508" height="410" key="GridCell.Tab.1.left" timestamp="1589802199423">
+      <screen x="599" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2508" height="410" key="GridCell.Tab.1.left/599.-1440.2560.1440/0.0.1194.834/-1961.-1440.2560.1440@599.-1440.2560.1440" timestamp="1589802199423" />
+    <state width="2508" height="410" key="GridCell.Tab.1.right" timestamp="1589802199425">
+      <screen x="599" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="2508" height="410" key="GridCell.Tab.1.right/599.-1440.2560.1440/0.0.1194.834/-1961.-1440.2560.1440@599.-1440.2560.1440" timestamp="1589802199425" />
+    <state x="1309" y="-1169" key="SettingsEditor" timestamp="1589780625683">
+      <screen x="599" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="3270" y="271" key="SettingsEditor/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1589767599953" />
+    <state x="1309" y="-1169" key="SettingsEditor/599.-1440.2560.1440/0.0.1194.834/-1961.-1440.2560.1440@599.-1440.2560.1440" timestamp="1589780625683" />
+    <state width="625" height="564" key="SwitcherDM" timestamp="1589800832291">
+      <screen x="599" y="-1440" width="2560" height="1440" />
+    </state>
+    <state width="625" height="514" key="SwitcherDM/0.0.2560.1440/2560.0.2560.1440@2560.0.2560.1440" timestamp="1589444130083" />
+    <state width="625" height="564" key="SwitcherDM/599.-1440.2560.1440/0.0.1194.834/-1961.-1440.2560.1440@599.-1440.2560.1440" timestamp="1589800832291" />
+    <state x="1477" y="-926" key="com.intellij.ide.util.TipDialog" timestamp="1589780691219">
+      <screen x="599" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="1477" y="-926" key="com.intellij.ide.util.TipDialog/599.-1440.2560.1440/0.0.1194.834/-1961.-1440.2560.1440@599.-1440.2560.1440" timestamp="1589780691219" />
+    <state x="1460" y="-1116" width="838" height="1032" key="search.everywhere.popup" timestamp="1589780638404">
+      <screen x="599" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="3421" y="324" width="838" height="1032" key="search.everywhere.popup/0.0.2560.1440/2560.0.2560.1440@2560.0.2560.1440" timestamp="1589444722267" />
+    <state x="3421" y="324" width="838" height="1032" key="search.everywhere.popup/2560.0.2560.1440/0.0.2560.1440@2560.0.2560.1440" timestamp="1589767608115" />
+    <state x="1460" y="-1116" width="838" height="1032" key="search.everywhere.popup/599.-1440.2560.1440/0.0.1194.834/-1961.-1440.2560.1440@599.-1440.2560.1440" timestamp="1589780638404" />
+  </component>
+</project>
