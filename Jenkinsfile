@@ -19,11 +19,17 @@ pipeline {
       }
     }
 
+    stage('Browser Test') {
+      steps {
+        echo 'Browser Test'
+      }
+    }
+
     stage('Build') {
       parallel {
         stage('Build') {
           steps {
-            echo 'sample'
+            sh './gradlew build'
           }
         }
 
