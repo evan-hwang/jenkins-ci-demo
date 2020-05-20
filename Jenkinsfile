@@ -9,7 +9,7 @@ pipeline {
 
     stage('Checkout') {
       steps {
-        git 'sample'
+        git(url: 'https://github.com/evan-hwang/jenkins-ci-demo.git', branch: 'master')
       }
     }
 
@@ -70,7 +70,7 @@ pipeline {
       parallel {
         stage('Deploy to DEV') {
           steps {
-            echo 'sample'
+            sh 'echo "Deploy Success"'
           }
         }
 
