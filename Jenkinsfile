@@ -29,10 +29,7 @@ pipeline {
       parallel {
         stage('Build') {
           steps {
-            withGradle() {
-              tool 'gradle5'
-            }
-
+            sh './gradlew build'
           }
         }
 
