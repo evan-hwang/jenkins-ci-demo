@@ -7,11 +7,11 @@ pipeline {
       }
     }
 
-//     stage('Checkout') {
-//       steps {
-//         git 'sample'
-//       }
-//     }
+    stage('Checkout') {
+      steps {
+        git 'sample'
+      }
+    }
 
     stage('Unit Test') {
       steps {
